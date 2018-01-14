@@ -1,0 +1,10 @@
+/Users/andresvacaflores/Documents/dotnet/food/bin/Debug/netcoreapp2.0/food.deps.json
+/Users/andresvacaflores/Documents/dotnet/food/bin/Debug/netcoreapp2.0/food.runtimeconfig.json
+/Users/andresvacaflores/Documents/dotnet/food/bin/Debug/netcoreapp2.0/food.runtimeconfig.dev.json
+/Users/andresvacaflores/Documents/dotnet/food/bin/Debug/netcoreapp2.0/food.dll
+/Users/andresvacaflores/Documents/dotnet/food/bin/Debug/netcoreapp2.0/food.pdb
+/Users/andresvacaflores/Documents/dotnet/food/obj/Debug/netcoreapp2.0/food.csproj.CoreCompileInputs.cache
+/Users/andresvacaflores/Documents/dotnet/food/obj/Debug/netcoreapp2.0/food.AssemblyInfoInputs.cache
+/Users/andresvacaflores/Documents/dotnet/food/obj/Debug/netcoreapp2.0/food.AssemblyInfo.cs
+/Users/andresvacaflores/Documents/dotnet/food/obj/Debug/netcoreapp2.0/food.dll
+/Users/andresvacaflores/Documents/dotnet/food/obj/Debug/netcoreapp2.0/food.pdb
