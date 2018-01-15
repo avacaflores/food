@@ -1,0 +1,22 @@
+@model IEnumerable<food.Models.Restaurant>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <table>
+        @foreach (var restaurant in Model)
+        {
+            <tr>
+                <td>@restaurant.Id</td>
+                <td>@restaurant.Name</td>
+            </tr>
+        }
+    </table>
+
+</body>
+</html>
