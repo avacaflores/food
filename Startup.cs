@@ -37,13 +37,11 @@ namespace food
             //app.UseDefaultFiles();
             app.UseStaticFiles();
 
-
             app.UseMvc(ConfigureRoutes);
 
             app.Run(async (context) =>
             {
                 //throw new Exception("Error!!");
-
                 var greeting = greeter.GetMessageOfTheDay();
                 context.Response.ContentType = "text/plain";
                 await context.Response.WriteAsync($"Not Found");
@@ -52,7 +50,7 @@ namespace food
 
         private void ConfigureRoutes(IRouteBuilder routeBuilder)
         {
-            routeBuilder.MapRoute("Default","{controller=Home}/{action=Index}");
+            routeBuilder.MapRoute("Default","{controller=Home}/{action=Index}/{id}");
         }
     }
 }
